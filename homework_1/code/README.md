@@ -6,7 +6,7 @@ This is the first homework for the course. Tasks cover basic statistics and hypo
 
 The .py file is the program which accepts the following arguments as input:
 
-`first_cell_type_expressions_path` – the path to the table with gene expressions for one cell type 
+`first_cell_type_expressions_path` – the path to the table with gene expressions for one cell type; 
 `second_cell_type_expressions_path` – the path to the table with gene expressions for the second cell type. 
 
 The program returns `save_results_table` – the table with ci-test results and z-test results.
