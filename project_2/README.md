@@ -1,4 +1,4 @@
-# Homework 1
+# Project 2
 
 ## Description
 
